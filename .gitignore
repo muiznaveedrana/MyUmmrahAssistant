@@ -2,3 +2,10 @@
 dist
 node_modules
 /server/UmrahAssistantAPI/.vs
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/Web/FileContentIndex/7b866773-74e0-44c0-9e0e-a813c6c891ef.vsidx
+.vs/Web/FileContentIndex/e14b319f-9db0-4213-8ad7-05327ff146cc.vsidx
+.vs/Web/FileContentIndex/f23b2fcb-b7d9-4b22-8436-a4ff6b9644d8.vsidx
+.vs/Web/v17/.wsuo
+.vs/Web/v17/DocumentLayout.backup.json
